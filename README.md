@@ -3,14 +3,15 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" width="45%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%234D8282&center=true&vCenter=true&lines=Bienvenido/a+a+mi+GitHub;Yo+soy+Matias;Apasionado+por+la+programación;Entusiasta+Backend;Fanático+del+mundo+IT;Y+próximamente+Analista+en+Sistemas">
+  </a>
+</p>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
-
+ 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
