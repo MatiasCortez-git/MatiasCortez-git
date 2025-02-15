@@ -7,20 +7,18 @@
 </div>
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%234D8282&center=true&vCenter=true&lines=Bienvenido/a+a+mi+GitHub;Yo+soy+Matias;Y+los+invito+a+codificar+el+futuro;Un+commit+a+la+vez">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%234D8282&center=true&vCenter=true&lines=Bienvenido/a+a+mi+GitHub!;Los+invito+a+codificar+el+futuro;Un+commit+a+la+vez!">
   </a>
 </p>
- 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+<!--Start Intro-->               
+<p align="left">👋 ¡Hola! Soy Matías, un entusiasta del mundo IT y apasionado por la programación. Me quisiera especializar en desarrollo backend y actualmente estoy en camino de convertirme en Analista en Sistemas.  </p>
+
+- 🏫 Estudiante de la Facultad de Ciencia y tecnologia de la Universidad Autonoma de Entre Rios.
+- 🌱 Estoy en camino de aprender más sobre Frameworks, Bases de datos No SQL y Testing.
+- 💡  Algunas habilidades blandas: 💥 Resolución de problemas, 🙌 Trabajo en equipo y 📚 autodidacta.
+- 💁‍♂️ Fuera de la tecnología, me encanta 🔨 la carpinteria, ♟ el ajedrez, 🎣 la pesca y la naturaleza.
+- 💻 Actualmente estoy abierto a una nueva oportunidad de trabajo o pasantia, este es [Mi CV](http://lnkiy.in/Ahmed_Hossam_Resume).
 <!--End Intro-->
 
 
