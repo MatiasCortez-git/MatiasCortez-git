@@ -7,10 +7,9 @@
 </div>
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%234D8282&center=true&vCenter=true&lines=Bienvenido/a+a+mi+GitHub;Yo+soy+Matias;Apasionado+por+la+programación;Entusiasta+Backend;Fanático+del+mundo+IT;Y+próximamente+Analista+en+Sistemas">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%234D8282&center=true&vCenter=true&lines=Bienvenido/a+a+mi+GitHub;Yo+soy+Matias;Y+los+invito+a+codificar+el+futuro;Un+commit+a+la+vez">
   </a>
 </p>
-
  
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
