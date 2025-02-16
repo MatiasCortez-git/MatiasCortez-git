@@ -19,11 +19,10 @@
 - 💡  Algunas habilidades blandas: 💥 Resolución de problemas, 🙌 Trabajo en equipo y 📚 autodidacta.
 - 💁‍♂️ Fuera de la tecnología, me encanta 🔨 la carpinteria, ♟ el ajedrez, 🎣 la pesca y la naturaleza.
 - 💻 Actualmente estoy abierto a una nueva oportunidad de trabajo o pasantia, este es [Mi CV](https://github.com/MatiasCortez-git/MatiasCortez-git/blob/35b5b9b2864fa7016d0535d43bc97f4d00a36ad6/Curr%C3%ADculum%20Vitae%20Cortez%20Matias.pdf).
+<br />
 <!--End Intro-->
 
 ---
-<br />
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴇɴɢᴜᴀᴊᴇs ʏ Hᴇʀʀᴀᴍɪᴇɴᴛᴀs</h2> 
 <p align="center">
