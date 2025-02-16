@@ -1,15 +1,15 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](BannerLinkedin.png)
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="50%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</div>
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
     <img src="https://readme-typing-svg.herokuapp.com?color=%234D8282&center=true&vCenter=true&lines=Bienvenido/a+a+mi+GitHub!;Los+invito+a+codificar+el+futuro;Un+commit+a+la+vez!">
   </a>
 </p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="50%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</div>
+
 
 <!--Start Intro-->               
 <p align="left">👋 ¡Hola! Soy Matías, un entusiasta del mundo IT y apasionado por la programación. Me quisiera especializar en desarrollo backend y actualmente estoy en camino de convertirme en Analista en Sistemas.  </p>
