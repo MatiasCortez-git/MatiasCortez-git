@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="45%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" width="50%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
@@ -22,7 +22,6 @@
 <br />
 <!--End Intro-->
 
----
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴇɴɢᴜᴀᴊᴇs ʏ Hᴇʀʀᴀᴍɪᴇɴᴛᴀs</h2> 
 <p align="center">
