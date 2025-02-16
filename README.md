@@ -21,37 +21,27 @@
 - 💻 Actualmente estoy abierto a una nueva oportunidad de trabajo o pasantia, este es [Mi CV](https://github.com/MatiasCortez-git/MatiasCortez-git/blob/35b5b9b2864fa7016d0535d43bc97f4d00a36ad6/Curr%C3%ADculum%20Vitae%20Cortez%20Matias.pdf).
 <!--End Intro-->
 
-
-
 ---
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lᴇɴɢᴜᴀᴊᴇs ʏ Hᴇʀʀᴀᴍɪᴇɴᴛᴀs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=java,cpp,py,php,js,html,css,mysql,mongo,qt,git,linux&perline=10"  />
 </p>
 <br />
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Cᴏɴᴇ́ᴄᴛᴀᴛᴇ ᴄᴏɴᴍɪɢᴏ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="www.linkedin.com/in/matias-cortez-a46a4626b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="mailto:matyrsd99@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
 
 <!--Footer--> 
 <p align="center">
@@ -60,6 +50,3 @@
 
 ------
 
-Credit: [Kiran1689](https://github.com/Kiran1689)
-
-Last Edited on: 29/11/2023
