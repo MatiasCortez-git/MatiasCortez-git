@@ -18,7 +18,7 @@
 - 🌱 Estoy en camino de aprender más sobre Frameworks, Bases de datos No SQL y Testing.
 - 💡  Algunas habilidades blandas: 💥 Resolución de problemas, 🙌 Trabajo en equipo y 📚 autodidacta.
 - 💁‍♂️ Fuera de la tecnología, me encanta 🔨 la carpinteria, ♟ el ajedrez, 🎣 la pesca y la naturaleza.
-- 💻 Actualmente estoy abierto a una nueva oportunidad de trabajo o pasantia, este es [Mi CV](https://github.com/MatiasCortez-git/MatiasCortez-git/blob/35b5b9b2864fa7016d0535d43bc97f4d00a36ad6/Curr%C3%ADculum%20Vitae%20Cortez%20Matias.pdf).
+- 💻 Actualmente estoy abierto a una nueva oportunidad de trabajo o pasantia, este es [Mi CV](https://github.com/MatiasCortez-git/MatiasCortez-git/blob/main/Curr%C3%ADculum%20Vitae%20Cortez%20Mat%C3%ADas.pdf).
 <br />
 <!--End Intro-->
 
