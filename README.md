@@ -25,7 +25,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴇɴɢᴜᴀᴊᴇs ʏ Hᴇʀʀᴀᴍɪᴇɴᴛᴀs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,cpp,py,php,js,html,css,bootstrap,mysql,postgres,mongo,spring,idea,eclipse,vscode,qt,git,github,linux&perline=10",mint,netlify  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,cpp,py,php,js,html,css,bootstrap,mysql,postgres,mongo,spring,idea,eclipse,vscode,qt,git,github,linux&perline=10,mint,netlify"  />
 </p>
 <br />
 <!--Contact Section--> 
