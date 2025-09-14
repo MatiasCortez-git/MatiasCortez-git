@@ -12,12 +12,13 @@
 
 
 <!--Start Intro-->               
-<p align="left">👋 ¡Hola! Soy Matías, un entusiasta del mundo IT y apasionado por la programación. Me quisiera especializar en desarrollo backend y actualmente estoy en camino de convertirme en Analista en Sistemas.  </p>
+<p align="left">👋 ¡Hola! Soy Matías, un entusiasta del mundo IT y apasionado por la programación. Me quiero especializar en desarrollo backend y en el modelado y diseño de bases de datos. Actualmente estoy en camino de convertirme en Analista en Sistemas.
 
 - 🏫 Estudiante de la Facultad de Ciencia y tecnologia de la Universidad Autonoma de Entre Rios.
 - 🌱 Estoy en camino de aprender más sobre Frameworks, Bases de datos No SQL y Testing.
 - 💡  Algunas habilidades blandas: 💥 Resolución de problemas, 🙌 Trabajo en equipo y 📚 autodidacta.
 - 💁‍♂️ Fuera de la tecnología, me encanta 🔨 la carpinteria, ♟ el ajedrez, 🎣 la pesca y la naturaleza.
+- 📺 También soy fan de las series: Attack on Titan, Game of Thrones, Star Wars, y más cómicas como The Big Bang Theory y How I Met Your Mother.
 - 💻 Actualmente estoy abierto a una nueva oportunidad de trabajo o pasantia, este es [Mi CV](https://github.com/MatiasCortez-git/MatiasCortez-git/blob/main/Curr%C3%ADculum%20Vitae%20Cortez%20Mat%C3%ADas.pdf).
 <br />
 <!--End Intro-->
